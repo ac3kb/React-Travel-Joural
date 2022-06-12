@@ -1,0 +1,19 @@
+.container-head{
+    display: flex;
+    flex-direction: row;
+    background-color: #F55A5A;
+    justify-content: center;
+    height: 55px;
+    gap:7px;
+    color: #FFFFFF;
+    font-family: 'Inter', sans-serif;
+}
+
+.logo{
+    height: 24px;
+    align-self: center;
+}
+
+.logo-text{
+    align-self: center;
+}
